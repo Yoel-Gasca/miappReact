@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+App de un Reloj digital que muestra la diferencia horaria entre Mexico y Qatar<br>
 <a href="https://yoel-gasca.github.io/miappReact/">Click aquí para ejecutar la app del reloj digital</a><br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
